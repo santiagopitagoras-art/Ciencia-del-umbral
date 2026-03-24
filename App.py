@@ -27,5 +27,3 @@ ax.legend()
 st.pyplot(fig)
 
 st.sidebar.info("Santiago Schiavoni · 2026")
-
-
