@@ -1,6 +1,3 @@
-Atlas v5 final · HTML
-Copiar
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
