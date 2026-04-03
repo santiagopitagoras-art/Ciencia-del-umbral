@@ -18,7 +18,6 @@
   --bd:rgba(192,152,64,.14);--bd2:rgba(192,152,64,.28);
 }
 html,body{height:100%;overflow:hidden;background:var(--ink);font-family:"Cormorant Garamond",Georgia,serif;color:var(--t1)}
-::-webkit-scrollbar{width:3px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:var(--bd2);border-radius:2px}
 .app{display:flex;flex-direction:column;height:100vh;overflow:hidden}
  
 /* HEADER */
